@@ -36,7 +36,7 @@ Full system documentation is provided in `HMS_Project_Report.doc`, which include
 
 **St. Agnes College (Autonomous)**, Mangaluru
 
-## 📝 License
+## License
 
 For academic purposes only.
 , fork projects, or reach out for collaboration!*
